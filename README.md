@@ -1,5 +1,7 @@
 # Curso de Git (Alura)
 
+![screenshot-main](https://github.com/guiemi/Curso-Git-Alura/blob/master/assets/Screen%20Shot%202020-08-26%20at%2014.01.44.png)
+
 ## Curso de Git (Parte 1/2)
 
 ### Conceitos que eu não conhecia
