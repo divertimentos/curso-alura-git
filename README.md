@@ -26,4 +26,9 @@
 ## Curso de Git (Parte 2/2)
 
 
+<<<<<<< Updated upstream
 
+=======
+* Site que mostra várias formatações interessantes para você personalizar seu `git log` [Git log format string cheatsheet (devthings.io)](https://devhints.io/git-log-format)
+* Bare repositories
+>>>>>>> Stashed changes
