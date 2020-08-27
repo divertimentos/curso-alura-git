@@ -8,7 +8,7 @@
 
 #### log
 
-* Para listar menos informações no log: `git log --online`
+* Para listar menos informações no log: `git log --inline`
 * Para listas mais informações: `git log -p` (mostra alterações)
 
 #### diff
