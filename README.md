@@ -72,5 +72,3 @@ Encontrar o responsável por uma alteração em uma determinada linha de um arqu
 
 ### Eventos (Git Hooks)
 
- 
-
