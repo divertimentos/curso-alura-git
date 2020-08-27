@@ -69,3 +69,8 @@ Encontrar o responsável por uma alteração em uma determinada linha de um arqu
 * Na `release` começa o processo de lançar uma nova versão. Sempre que um *bug* for corrigido na `release`, as alterações voltam para a `develop`, pois outras *features* podem se aproveitar dessa correção. Quando tudo estiver corrigido, a `release` é mergeada na `master` para receber uma **tag**
   * **release** --> **master**
 * Quando um *bug* for encontrado na `master`, é criada uma `hotfix` cujas alterações são mergeadas diretamente na `master`, mas também na `develop`, pois a `develop` precisa se aproveitar dessa correção
+
+### Eventos (Git Hooks)
+
+ 
+
